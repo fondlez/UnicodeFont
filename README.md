@@ -22,7 +22,7 @@ This version of UnicodeFont is made to work with TBC.
 
 ### Setup
  1. Press the green code button and click download zip
- 2. Rename UnicodeFont-master to UnicodeFont and drag it into your addon folder
+ 2. Unzip the file and and drag the folder inside into your WoW\Interface\AddOns folder
  3. Start up WoW and view some non latin characters, it should now display correctly in chat and in chat bubbles.
 
 ![Image](https://i.imgur.com/dsADiDx.png)
