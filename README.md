@@ -18,11 +18,7 @@ Keep in mind this addon will only make you able to read the supported languages.
 If you are interesting in writting in chinese, russian etc, download Locale Emulator and run Wow.exe with it.
 https://github.com/xupefei/Locale-Emulator
 
-This version of UnicodeFont is made to work with vanilla. If you want to use it for TBC/WOTLK, do the following changes:
-
-For TBC, open UnicodeFont.toc and change the following: Interface: 11200 to Interface: 20400
-
-For WOTLK, open UnicodeFont.toc and change the following: Interface: 11200 to Interface: 30300
+This version of UnicodeFont is made to work with TBC.
 
 ### Setup
  1. Press the green code button and click download zip
