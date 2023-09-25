@@ -1,4 +1,4 @@
-## Interface: 11200
+## Interface: 20400
 ## Title: Unicode Font
 ## Title-ruRU: Шрифт Unicode
 ## Notes: Enables you to see Chinese, Japanese and other languages in game
